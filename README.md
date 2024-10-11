@@ -6,7 +6,7 @@ Welcome to my resume repository! Here you can find my latest resume detailing my
 
 You can download my resume using the link below:
 
-- [Download My Resume]()
+- [Download My Resume](https://github.com/seanschlief01/Resume/blob/main/Sean%20Schlief's%20Resume.pdf)
 
 ## Overview
 
